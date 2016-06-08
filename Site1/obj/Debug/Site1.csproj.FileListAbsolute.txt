@@ -1,0 +1,5 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Site1\bin\Site1.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Site1\bin\Site1.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Site1\obj\Debug\Site1.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Site1\obj\Debug\Site1.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Site1\obj\Debug\Site1.csprojResolveAssemblyReference.cache

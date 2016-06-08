@@ -1,0 +1,5 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\AuthTicket\bin\AuthTicket.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\AuthTicket\bin\AuthTicket.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\AuthTicket\obj\Debug\AuthTicket.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\AuthTicket\obj\Debug\AuthTicket.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\AuthTicket\obj\Debug\AuthTicket.csprojResolveAssemblyReference.cache

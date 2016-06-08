@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<h2>Index</h2>
+<ul>
+    @{
+        foreach (var item in ViewData.Model)
+        {
+
+        <li> @item.BookName</li>
+            
+        }
+      
+    }
+</ul>

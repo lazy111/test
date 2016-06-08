@@ -1,0 +1,11 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WebAPIClient\bin\Debug\WebAPIClient.exe.config
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WebAPIClient\bin\Debug\WebAPIClient.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WebAPIClient\bin\Debug\WebAPIClient.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WebAPIClient\obj\Debug\WebAPIClient.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WebAPIClient\obj\Debug\WebAPIClient.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WebAPIClient\bin\Debug\WebAPIClient.exe.config
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WebAPIClient\bin\Debug\WebAPIClient.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WebAPIClient\bin\Debug\WebAPIClient.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WebAPIClient\obj\Debug\WebAPIClient.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WebAPIClient\obj\Debug\WebAPIClient.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WebAPIClient\obj\Debug\WebAPIClient.csprojResolveAssemblyReference.cache

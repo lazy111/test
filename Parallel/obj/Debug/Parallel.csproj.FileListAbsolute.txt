@@ -1,0 +1,6 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Parallel\bin\Debug\Parallel.exe.config
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Parallel\bin\Debug\Parallel.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Parallel\bin\Debug\Parallel.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Parallel\obj\Debug\Parallel.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Parallel\obj\Debug\Parallel.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Parallel\obj\Debug\Parallel.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfWorkClient\bin\Debug\WcfWorkClient.exe.config
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfWorkClient\bin\Debug\WcfWorkClient.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfWorkClient\bin\Debug\WcfWorkClient.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfWorkClient\obj\Debug\WcfWorkClient.csprojResolveAssemblyReference.cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfWorkClient\obj\Debug\WcfWorkClient.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfWorkClient\obj\Debug\WcfWorkClient.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfWorkClient\bin\Debug\WcfWorkService.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfWorkClient\bin\Debug\WcfWorkService.pdb

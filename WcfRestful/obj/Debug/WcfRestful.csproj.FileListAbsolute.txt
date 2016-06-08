@@ -1,0 +1,10 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WcfRestful\bin\WcfRestful.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WcfRestful\bin\WcfRestful.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WcfRestful\obj\Debug\WcfRestful.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WcfRestful\obj\Debug\WcfRestful.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WcfRestful\obj\Debug\WcfRestful.csprojResolveAssemblyReference.cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfRestful\bin\WcfRestful.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfRestful\bin\WcfRestful.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfRestful\obj\Debug\WcfRestful.csprojResolveAssemblyReference.cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfRestful\obj\Debug\WcfRestful.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfRestful\obj\Debug\WcfRestful.pdb

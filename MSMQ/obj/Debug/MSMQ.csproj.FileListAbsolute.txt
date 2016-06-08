@@ -1,0 +1,6 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\MSMQ\bin\Debug\MSMQ.exe.config
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\MSMQ\bin\Debug\MSMQ.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\MSMQ\bin\Debug\MSMQ.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\MSMQ\obj\Debug\MSMQ.csprojResolveAssemblyReference.cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\MSMQ\obj\Debug\MSMQ.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\MSMQ\obj\Debug\MSMQ.pdb

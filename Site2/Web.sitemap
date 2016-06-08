@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="/" title="主页"  description="">
+        <siteMapNode url="~/i/webform1.aspx" title="个人中心"  description="" />
+    </siteMapNode>
+</siteMap>

@@ -1,0 +1,6 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Async\bin\Debug\Async.exe.config
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Async\bin\Debug\Async.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Async\bin\Debug\Async.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Async\obj\Debug\Async.csprojResolveAssemblyReference.cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Async\obj\Debug\Async.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Async\obj\Debug\Async.pdb

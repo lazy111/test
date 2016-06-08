@@ -1,0 +1,6 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\PartialTest\bin\Debug\PartialTest.exe.config
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\PartialTest\bin\Debug\PartialTest.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\PartialTest\bin\Debug\PartialTest.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\PartialTest\obj\Debug\PartialTest.csprojResolveAssemblyReference.cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\PartialTest\obj\Debug\PartialTest.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\PartialTest\obj\Debug\PartialTest.pdb

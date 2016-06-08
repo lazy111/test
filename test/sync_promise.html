@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script src="Scripts/jquery-1.7.1.js"></script>
+    <title></title>
+    <script>
+        //异步执行之promise对象
+        //var promise = new Promise(function (resolve, reject) {
+        //    //to do sth;
+        //    setTimeout(function () {
+        //        if (true) {
+        //            resolve("success");
+        //        } else {
+        //            reject("error");
+        //        }
+        //    }, 2000);
+        //});
+        //promise.then(function (val) {
+        //    alert(val);
+        //}, function (val) {
+        //    alert(val);
+        //});
+        //alert("start!!");
+
+
+
+
+        //var wait = function () {
+
+        //    setTimeout(function () {
+
+        //        alert("exec!");
+
+        //    }, 3000);
+
+        //}
+        //wait();
+        //alert("start!!");
+
+        var dtd = $.Deferred();
+
+        var wait = function (dtd) {
+
+            setTimeout(function () {
+                dtd.resolve();
+                alert("exec!");
+
+            }, 3000);
+
+            return dtd.promise();
+        }
+        var d = wait(dtd);
+        $.when(d).done(function () { alert("success") }).fail(function () { alert("error"); });
+        d.resolve();
+        alert("start!!");
+
+
+
+    </script>
+</head>
+<body>
+</body>
+</html>

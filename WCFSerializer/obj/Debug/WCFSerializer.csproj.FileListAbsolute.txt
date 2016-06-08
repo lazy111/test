@@ -1,0 +1,10 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WCFSerializer\bin\WCFSerializer.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WCFSerializer\bin\WCFSerializer.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WCFSerializer\obj\Debug\WCFSerializer.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WCFSerializer\obj\Debug\WCFSerializer.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WCFSerializer\obj\Debug\WCFSerializer.csprojResolveAssemblyReference.cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WCFSerializer\bin\WCFSerializer.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WCFSerializer\bin\WCFSerializer.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WCFSerializer\obj\Debug\WCFSerializer.csprojResolveAssemblyReference.cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WCFSerializer\obj\Debug\WCFSerializer.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WCFSerializer\obj\Debug\WCFSerializer.pdb

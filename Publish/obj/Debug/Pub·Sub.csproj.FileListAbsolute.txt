@@ -1,0 +1,6 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\Pub·Sub\bin\Debug\Pub·Sub.exe.config
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\Pub·Sub\bin\Debug\Pub·Sub.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\Pub·Sub\bin\Debug\Pub·Sub.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\Pub·Sub\obj\Debug\Pub·Sub.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\Pub·Sub\obj\Debug\Pub·Sub.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\Pub·Sub\obj\Debug\Pub·Sub.csprojResolveAssemblyReference.cache

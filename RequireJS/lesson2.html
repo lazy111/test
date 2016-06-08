@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <!--加载requirejs脚本的script标签加入了data-main属性，这个属性指定的js将在加载完reuqire.js后处理，我们把require.config的配置加入到data-main后，就可以使每一个页面都使用这个配置，然后页面中就可以直接使用require来加载所有的短模块名-->
+    <!--data-main="js/main"设定后，我们在使用require(['jquery'])后(不配置jquery的paths)，require会自动加载js/jquery.js这个文件，而不是jquery.js，相当于默认配置了：require.config({baseUrl:"js"})-->
+    <script data-main="js/main" src="http://requirejs.org/docs/release/2.1.11/minified/require.js"></script>
+    <script>
+
+        require(["jquery"], function ($) {
+            $(function () {
+
+                $("#color").css("color", "red");
+            })
+        })
+
+    </script>
+</head>
+<body>
+    <div id="color">red</div>
+</body>
+</html>

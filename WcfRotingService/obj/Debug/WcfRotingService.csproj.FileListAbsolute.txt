@@ -1,0 +1,5 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfRotingService\bin\WcfRotingService.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfRotingService\bin\WcfRotingService.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfRotingService\obj\Debug\WcfRotingService.csprojResolveAssemblyReference.cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfRotingService\obj\Debug\WcfRotingService.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfRotingService\obj\Debug\WcfRotingService.pdb

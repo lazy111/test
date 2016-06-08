@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--root:根节点  branch：枝干接点  leaf：叶子节点-->
+<siteMap>
+  <siteMapNode url="^(?:/u(\d+)|/(\w+))(/((default|index)\.html)?)?$" title="个人中心" nodeStyle="root">
+    <siteMapNode url="^(?:/u(\d+)/|/(\w+)/)MessageCenter/$" title="消息" nodeStyle="branch">
+    </siteMapNode>
+    <siteMapNode url="^(?:/u(\d+)|/(\w+))/SettingCenter/$" title="问答"/>
+    <siteMapNode url="^(?:/u(\d+)|/(\w+))/!forum/$" title="我的论坛">
+    </siteMapNode>
+    <siteMapNode url="^(?:/u(\d+)|/(\w+))/!ask/$" title="我的收藏">
+    </siteMapNode>
+    <siteMapNode url="^(?:/u(\d+)|/(\w+))/!forum/$" title="我的收藏">
+    </siteMapNode>
+    <siteMapNode url="^(?:/u(\d+)|/(\w+))/car/$" title="我的车库">
+    </siteMapNode>
+    <siteMapNode url="^(?:/u(\d+)|/(\w+))/settingcenter/$" title="账号设置">
+    </siteMapNode>
+    <siteMapNode url="^(?:/u(\d+)|/(\w+))/!giftshop/$" title="车币商城">
+    </siteMapNode>
+    <siteMapNode url="^(?:/u(\d+)|/(\w+))/coupon/$" title="优惠劵">
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

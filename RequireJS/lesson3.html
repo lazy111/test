@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <script src="http://requirejs.org/docs/release/2.1.11/minified/require.js"></script>
+    <script>
+        require.config({
+            baseUrl: "js",
+            paths: {
+                "jquery": ["http://libs.baidu.com/jquery/2.0.3/jquery", "jquery-1.7.1"],//paths简化url，可以配置多个路径，如果远程cdn库没有加载成功，可以加载本地的库[script/jquery]
+            }
+        })
+
+        require(["jquery", "b", "c", "d"], function ($, b, c, d) {
+
+            alert(b.color);
+            alert(c.size);
+            d.show();
+        })
+        require(["d"], function (d) {
+            d.show();
+        })
+
+
+    </script>
+</head>
+<body>
+</body>
+</html>

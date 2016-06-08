@@ -1,0 +1,8 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WinService\bin\Debug\WinService.exe.config
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WinService\bin\Debug\WinService.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WinService\bin\Debug\WinService.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WinService\obj\Debug\WinService.csprojResolveAssemblyReference.cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WinService\obj\Debug\WinService.Service1.resources
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WinService\obj\Debug\WinService.csproj.GenerateResource.Cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WinService\obj\Debug\WinService.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WinService\obj\Debug\WinService.pdb

@@ -1,0 +1,9 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\ServiceInvoke\bin\ServiceInvoke.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\ServiceInvoke\bin\ServiceInvoke.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\ServiceInvoke\obj\Debug\ServiceInvoke.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\ServiceInvoke\obj\Debug\ServiceInvoke.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\ServiceInvoke\bin\ServiceInvoke.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\ServiceInvoke\bin\ServiceInvoke.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\ServiceInvoke\obj\Debug\ServiceInvoke.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\ServiceInvoke\obj\Debug\ServiceInvoke.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\ServiceInvoke\obj\Debug\ServiceInvoke.csprojResolveAssemblyReference.cache

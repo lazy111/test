@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <script src="http://apps.bdimg.com/libs/require.js/2.1.11/require.min.js"></script>
+    <script>
+        require.config({
+            paths: {
+                "jquery": ["http://libs.baidu.com/jquery/2.0.3/jquery", "script/jquery"],//paths简化url，可以配置多个路径，如果远程cdn库没有加载成功，可以加载本地的库[script/jquery]
+                "a": "js/a"
+            }
+        })
+        require(["jquery", "a"], function ($, a) { //如果某个模块不输出变量值，则没有，所以尽量将输出的模块写在前面，防止位置错乱引发误解
+            $(function () {
+                $("#hello").css("color", "red");
+                alert("load finished");
+            })
+
+            
+        })
+    </script>
+</head>
+<body>
+    <div id="hello">hello everyone!</div>
+</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfMexService\bin\WcfMexService.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfMexService\bin\WcfMexService.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfMexService\obj\Debug\WcfMexService.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfMexService\obj\Debug\WcfMexService.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfMexService\obj\Debug\WcfMexService.csprojResolveAssemblyReference.cache

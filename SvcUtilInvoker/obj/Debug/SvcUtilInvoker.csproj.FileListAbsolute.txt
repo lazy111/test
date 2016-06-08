@@ -1,0 +1,12 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\SvcUtilInvoker\bin\Debug\SvcUtilInvoker.exe.config
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\SvcUtilInvoker\bin\Debug\SvcUtilInvoker.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\SvcUtilInvoker\bin\Debug\SvcUtilInvoker.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\SvcUtilInvoker\obj\Debug\SvcUtilInvoker.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\SvcUtilInvoker\obj\Debug\SvcUtilInvoker.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\SvcUtilInvoker\obj\Debug\SvcUtilInvoker.csprojResolveAssemblyReference.cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\SvcUtilInvoker\bin\Debug\SvcUtilInvoker.exe.config
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\SvcUtilInvoker\bin\Debug\SvcUtilInvoker.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\SvcUtilInvoker\bin\Debug\SvcUtilInvoker.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\SvcUtilInvoker\obj\Debug\SvcUtilInvoker.csprojResolveAssemblyReference.cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\SvcUtilInvoker\obj\Debug\SvcUtilInvoker.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\SvcUtilInvoker\obj\Debug\SvcUtilInvoker.pdb

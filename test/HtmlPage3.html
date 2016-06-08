@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <script src="Scripts/jquery-1.7.1.js"></script>
+    <script>
+
+
+        //汽车通解决跨域的解决方案！
+        var requestDatalist = {};
+        var head = document.getElementsByTagName("head")[0];
+
+        if (!head) {
+            throw new Error('HEAD不存在');
+        }
+        var script = document.createElement('script');
+        script.onload = script.onreadystatechange = function () {
+            if (script && script.readyState && script.readyState != 'loaded' && script.readyState != 'complete') return;
+
+            script.onload = script.onreadystatechange = script.onerror = null, script.src = ''
+                , script.parentNode.removeChild(script), script = null; //清理script标记
+
+            console.log(requestDatalist);
+        };
+
+        script.charset = 'gb2312';
+        script.src = "http://api.car.bitauto.com/CarInfo/MasterBrandToSerialNew.aspx?type=0&pid=0&rt=master&serias=m&key=master_0_0_m";
+
+        head.appendChild(script);
+
+
+    </script>
+</head>
+<body>
+    <div>
+
+        <input type="text" name="name" id="txt_Code" value=" 222" />
+        <input type="text" name="name" id="txt_Code2" value="333 " />
+    </div>
+
+</body>
+</html>

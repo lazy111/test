@@ -1,0 +1,8 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\ConsoleApplication1\obj\Debug\ConsoleApplication1.Properties.Resources.resources

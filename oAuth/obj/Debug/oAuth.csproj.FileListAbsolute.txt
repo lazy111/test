@@ -1,0 +1,5 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\oAuth\bin\WebApplication3.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\oAuth\bin\WebApplication3.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\oAuth\obj\Debug\WebApplication3.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\oAuth\obj\Debug\WebApplication3.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\oAuth\obj\Debug\oAuth.csprojResolveAssemblyReference.cache

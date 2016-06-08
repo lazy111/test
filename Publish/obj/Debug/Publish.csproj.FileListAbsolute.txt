@@ -1,0 +1,6 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Publish\bin\Debug\Publish.exe.config
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Publish\bin\Debug\Publish.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Publish\bin\Debug\Publish.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Publish\obj\Debug\Publish.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Publish\obj\Debug\Publish.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Publish\obj\Debug\Publish.csprojResolveAssemblyReference.cache

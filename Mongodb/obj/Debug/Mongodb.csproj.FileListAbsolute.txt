@@ -1,0 +1,6 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Mongodb\bin\Debug\Mongodb.exe.config
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Mongodb\bin\Debug\Mongodb.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Mongodb\bin\Debug\Mongodb.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Mongodb\obj\Debug\Mongodb.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Mongodb\obj\Debug\Mongodb.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Mongodb\obj\Debug\Mongodb.csprojResolveAssemblyReference.cache

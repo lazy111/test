@@ -1,0 +1,10 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WcfRestfulClient\bin\WcfRestfulClient.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WcfRestfulClient\bin\WcfRestfulClient.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WcfRestfulClient\obj\Debug\WcfRestfulClient.csprojResolveAssemblyReference.cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WcfRestfulClient\obj\Debug\WcfRestfulClient.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\WebApplication1\WcfRestfulClient\obj\Debug\WcfRestfulClient.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfRestfulClient\bin\WcfRestfulClient.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfRestfulClient\bin\WcfRestfulClient.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfRestfulClient\obj\Debug\WcfRestfulClient.csprojResolveAssemblyReference.cache
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfRestfulClient\obj\Debug\WcfRestfulClient.dll
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\WcfRestfulClient\obj\Debug\WcfRestfulClient.pdb

@@ -1,0 +1,6 @@
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Redis\bin\Debug\Redis.exe.config
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Redis\bin\Debug\Redis.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Redis\bin\Debug\Redis.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Redis\obj\Debug\Redis.exe
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Redis\obj\Debug\Redis.pdb
+C:\Users\wujc\Documents\Visual Studio 2012\Projects\test\Redis\obj\Debug\Redis.csprojResolveAssemblyReference.cache
